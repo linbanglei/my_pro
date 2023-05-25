@@ -1,6 +1,6 @@
 # my_pro
-基于深度学习的相似医学图像检索系统
 图像数据自己获取
 image文件夹中有train和test两个子文件夹
 train和test分别存放各个类别的训练集和测试集
 先执行VGG_Transfer_learning.py 再执行model_retrain，最后执行GUI.py
+chart.py和caculate.py用于画一些图表，对系统没啥用
